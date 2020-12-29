@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VZaI3Xxuy2KGP+b+wbioq5X9CKWS5vPDXkD18AjpYwQpv2NAPRCj6x0hC3Ohext1QkFxlekGH35MXKec1KiBJQ==",
+  "success": true,
+  "projectFilePath": "/Users/mymac/Projects/JuliusCaesarApp/JuliusCaesar/JuliusCaesar.csproj",
+  "expectedPackageFiles": [
+    "/Users/mymac/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

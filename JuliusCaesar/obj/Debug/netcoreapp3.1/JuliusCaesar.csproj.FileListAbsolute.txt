@@ -1,0 +1,12 @@
+/Users/mymac/Projects/JuliusCaesarApp/JuliusCaesar/bin/Debug/netcoreapp3.1/JuliusCaesar.deps.json
+/Users/mymac/Projects/JuliusCaesarApp/JuliusCaesar/bin/Debug/netcoreapp3.1/JuliusCaesar.runtimeconfig.json
+/Users/mymac/Projects/JuliusCaesarApp/JuliusCaesar/bin/Debug/netcoreapp3.1/JuliusCaesar.runtimeconfig.dev.json
+/Users/mymac/Projects/JuliusCaesarApp/JuliusCaesar/bin/Debug/netcoreapp3.1/JuliusCaesar.dll
+/Users/mymac/Projects/JuliusCaesarApp/JuliusCaesar/bin/Debug/netcoreapp3.1/JuliusCaesar.pdb
+/Users/mymac/Projects/JuliusCaesarApp/JuliusCaesar/obj/Debug/netcoreapp3.1/JuliusCaesar.csprojAssemblyReference.cache
+/Users/mymac/Projects/JuliusCaesarApp/JuliusCaesar/obj/Debug/netcoreapp3.1/JuliusCaesar.AssemblyInfoInputs.cache
+/Users/mymac/Projects/JuliusCaesarApp/JuliusCaesar/obj/Debug/netcoreapp3.1/JuliusCaesar.AssemblyInfo.cs
+/Users/mymac/Projects/JuliusCaesarApp/JuliusCaesar/obj/Debug/netcoreapp3.1/JuliusCaesar.csproj.CoreCompileInputs.cache
+/Users/mymac/Projects/JuliusCaesarApp/JuliusCaesar/obj/Debug/netcoreapp3.1/JuliusCaesar.dll
+/Users/mymac/Projects/JuliusCaesarApp/JuliusCaesar/obj/Debug/netcoreapp3.1/JuliusCaesar.pdb
+/Users/mymac/Projects/JuliusCaesarApp/JuliusCaesar/obj/Debug/netcoreapp3.1/JuliusCaesar.genruntimeconfig.cache
